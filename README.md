@@ -36,7 +36,7 @@ The dataset includes employee metrics such as:
 
 ## ⚙️ Tech Stack
 - **Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 - **Environment:** Jupyter Notebook
 
 ---
