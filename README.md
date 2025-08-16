@@ -65,12 +65,6 @@ The predictive model allows HR to:
 3. **Feature Engineering** – Transform data for modeling  
 4. **Model Training & Evaluation** – Build and validate predictive models  
 5. **Insights & Recommendations** – Provide actionable guidance for HR  
-
----
-
-## 📊 Demo / Visualization
-> Include visualizations of employee attrition trends, model performance, or feature importance to showcase insights.
-
 ---
 
 ## 👤 Author
