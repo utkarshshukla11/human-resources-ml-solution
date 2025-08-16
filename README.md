@@ -1,17 +1,17 @@
 # 🏢 Employee Retention Prediction – Machine Learning Project
 
 ## 📌 Project Objective
-Build a machine learning model to predict which employees are likely to leave, helping HR teams take action to retain valuable talent.
+For companies to remain competitive and accelerate growth, it is essential to leverage AI/ML-based predictive models. This project focuses on forecasting future daily sales using historical data, promotions, seasonality, holidays, and competition-related factors.
 
 ---
 
 ## 💡 Why This Project Matters
-- Hiring and keeping employees is challenging — it costs time, money, and effort.
-- Small business owners spend nearly 40% of their working hours on non-revenue tasks like hiring.
-- Companies spend 15–20% of a new employee's salary just to recruit them.
-- Hiring takes an average of 52 days, and companies can lose 1–2.5% of total revenue during onboarding.
+<b style="color:#ff6f61; font-size:20px;">By predicting sales accurately, the sales department can: </b>
 
-By predicting attrition, organizations can save costs, improve productivity, and retain top talent.
+Optimize inventory planning
+Design smarter promotions
+Allocate resources effectively
+Increase revenue and improve customer satisfaction
 
 ---
 
